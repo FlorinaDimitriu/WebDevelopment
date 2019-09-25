@@ -1,0 +1,16 @@
+.mare div {
+    width: 100px;
+    display: flex;
+}
+.patrat1   {
+    background-color: skyblue;
+    flex: 1; 
+}
+.patrat2   {
+    background-color: pink;
+ flex: 1;
+}
+.patrat3   {
+    background-color: gainsboro;
+ flex: 1;
+}
